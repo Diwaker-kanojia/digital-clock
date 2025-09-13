@@ -2,7 +2,7 @@
 
 A modern **digital clock web app** that displays the **current date, real-time clock, day of the week, and user location** with a beautiful **glassmorphism design**.  
 
-
+<img src="assets/
 
 
 ## ✨ Features  
